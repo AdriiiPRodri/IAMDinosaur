@@ -10,3 +10,4 @@ robotjs
 genomes/*
 !genomes/.gitkeep
 !genomes/ninja.json
+/nbproject/private/
